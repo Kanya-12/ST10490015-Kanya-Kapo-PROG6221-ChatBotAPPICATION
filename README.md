@@ -80,5 +80,9 @@ This project uses **GitHub Actions** to automatically build and verify the code.
 
 <!-- Commit markers (for assignment tracking) -->
 // Initial setup 
+
 // Voice greeting feature added
+
 // ASCII art logo added  
+
+// User input implemented
