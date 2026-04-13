@@ -88,3 +88,5 @@ This project uses **GitHub Actions** to automatically build and verify the code.
 // User input implemented
 
 // Chatbot responses added
+
+// UI and validation improved
